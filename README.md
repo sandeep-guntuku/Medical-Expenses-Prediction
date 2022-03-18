@@ -60,3 +60,25 @@ Next is the ‘region’ column. Some Regions are Hygienic, Clean, Neat, and Pro
 <br />• Conclusion
 <br />• Recommendations
 <br />• Future Work
+
+
+## Evaluation:
+• We came to know that the Most Important Factor to Predict the Medical Expenses of a subject is Smoking Behavior and Age, that means, smoking is Bad for Health, as we already know that and which inevitably increases medical expenses as due to smoking one is likely to fall ill more than the nonsmokers.
+
+<br />• We also found that with increasing of age, one needs to take some more care and precautions for your health as with the increase of age health becomes fragile, so they go for frequent medical check-up, likely to fall ill quickly as with the increase of age immunity falls so they adopt measures to stay healthy by taking medicines and engaging in some physical activities.
+
+<br />• Apart from that we also understood that Gender, Number of Children, the Region also have a good impact on determining Medical Expenses.
+ 
+## Conclusion:
+We have built three models among which the Random Forest Regressor model shows the best result through which we can say 83.75% variability of expenses can well be explained by predictor variables and which yields comparatively low RMSE value so our predicted expense through this model will not vary too much from the actual expense.
+ 
+## Recommendations:
+The accuracy can be much more enhanced with the following recommendations:
+<br />• The data sample size is relatively small in this case, especially with a perspective of applying this in real world.
+<br />• The number of features is also limited in this dataset. With an addition of 5 or more valid/logical features, the predictions can be improved much further.
+<br />• We can try converting the Expense column to a normal distribution using log or square root transformation for removing the skewness.
+<br />• Future enhancements to this project could include experiments with additional predictive models such as Gradient Boosting or SVM models. Improved accuracy of the linear regression models is likely with additional preprocessing of the data to better conform to the assumptions of linear modeling.
+
+## Future Work:
+<br />• We plan to take this project further as health is center of everyone’s life and every part of our life relies on good health.
+<br />• We intend to develop an application to predict possible medical costs using PyCharm editor on AWS platform by plugging in basic details such as age, sex, smoker, children, region and then pressing a submit button.
