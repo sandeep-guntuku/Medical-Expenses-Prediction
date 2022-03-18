@@ -24,9 +24,8 @@ This project helps in identifying the factors affecting the medical expenses of 
  
 ## Data Source:
 • The dataset has been sourced from kaggle.com and on GitHub.
-• This data file includes all needed information to find out more about age, gender,
-smoking behavior and necessary metrics to make predictions and draw conclusions.
-• Link to the dataset: https://github.com/stedy/Machine-Learning-with-R- datasets/blob/master/insurance.csv
+<br />• This data file includes all needed information to find out more about age, gender, smoking behavior and necessary metrics to make predictions and draw conclusions.
+<br />• Link to the dataset: https://github.com/stedy/Machine-Learning-with-R- datasets/blob/master/insurance.csv
 
 The dataset contains information on 1,338 patients. It includes the following features:
 <br />• Age: Patient's age
@@ -54,10 +53,10 @@ The fifth is the ‘smoker’ column. The Smoking factor is also considered to b
 Next is the ‘region’ column. Some Regions are Hygienic, Clean, Neat, and Prosperous, But some Regions are not, and this information affects health which is related to medical expenses.
 
 ## Steps:
-• Data Pre-Processing
-• Exploratory Data Analysis : Data Visualization, Univariate Analysis and Data Processing
-• Data Modelling
-• Evaluation
-• Conclusion
-• Recommendations
-• Future Work
+<br />• Data Pre-Processing
+<br />• Exploratory Data Analysis : Data Visualization, Univariate Analysis and Data Processing
+<br />• Data Modelling
+<br />• Evaluation
+<br />• Conclusion
+<br />• Recommendations
+<br />• Future Work
