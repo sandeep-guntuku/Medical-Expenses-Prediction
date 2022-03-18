@@ -80,5 +80,5 @@ The accuracy can be much more enhanced with the following recommendations:
 <br />• Future enhancements to this project could include experiments with additional predictive models such as Gradient Boosting or SVM models. Improved accuracy of the linear regression models is likely with additional preprocessing of the data to better conform to the assumptions of linear modeling.
 
 ## Future Work:
-<br />• We plan to take this project further as health is center of everyone’s life and every part of our life relies on good health.
+• We plan to take this project further as health is center of everyone’s life and every part of our life relies on good health.
 <br />• We intend to develop an application to predict possible medical costs using PyCharm editor on AWS platform by plugging in basic details such as age, sex, smoker, children, region and then pressing a submit button.
